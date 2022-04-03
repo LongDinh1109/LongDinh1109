@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I’m @LongDinh1109
 - 👀 I’m interested in making the creative website
-- 🌱 I’m currently learning IT
+- 🌱 I’m currently a front-end developer
 - 📫 How to reach me : www.linkedin.com/in/Long-Dinh-Ng
 
 <!---
